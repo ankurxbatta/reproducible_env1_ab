@@ -15,7 +15,7 @@ conda search -c bioconda fastqc
 
 This particular command will provide us with all the version available for that particular package in that specific channel.
 
-## Step 2:  Creating environment
+## Step 2: Creating environment
 
 ```{bash}
 #| eval: false
