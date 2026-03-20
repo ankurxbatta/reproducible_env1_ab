@@ -1,0 +1,6 @@
+name: partner_Krish_filtlong
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+prefix: /Users/kdesai01/miniconda3/envs/partner_Krish_filtlong
